@@ -1,6 +1,6 @@
 {
-  "name": "eddystone-beacon-scanner",
-  "version": "3.0.0",
+  "name": "@abandonware/eddystone-beacon-scanner",
+  "version": "3.0.1-0",
   "description": "Scan for Eddystone beacon's using Node.js",
   "main": "index.js",
   "scripts": {
