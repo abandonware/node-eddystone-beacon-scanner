@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/sandeepmistry/node-eddystone-beacon-scanner",
   "devDependencies": {
-    "jshint": "^2.9.7"
+    "jshint": "^2.11.0"
   },
   "dependencies": {
-    "debug": "^4.1.0",
-    "@abandonware/noble": "^1.9.2-1",
+    "debug": "^4.1.1",
+    "@abandonware/noble": "^1.9.2-7",
     "eddystone-url-encoding": "^1.0.1"
   }
 }
